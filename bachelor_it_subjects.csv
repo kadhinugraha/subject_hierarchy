@@ -1,0 +1,25 @@
+course_name,year_level,semester,subject_type,subject_code,subject_name
+Bachelor of IT,1,1,Core,ITC101,Introduction to IT
+Bachelor of IT,1,1,Core,ITC102,Programming Fundamentals
+Bachelor of IT,1,1,Core,ITC103,Database Concepts
+Bachelor of IT,1,1,Core,ITC104,Web Foundations
+Bachelor of IT,1,2,Elective,ITE111,Digital Creativity
+Bachelor of IT,1,2,Elective,ITE112,Technology and Society
+Bachelor of IT,1,2,Elective,ITE113,Spreadsheet Analytics
+Bachelor of IT,1,2,Elective,ITE114,Introduction to Cyber Safety
+Bachelor of IT,2,1,Core,ITC201,Object Oriented Programming
+Bachelor of IT,2,1,Core,ITC202,Data Structures
+Bachelor of IT,2,1,Core,ITC203,Systems Analysis
+Bachelor of IT,2,1,Core,ITC204,Networking Fundamentals
+Bachelor of IT,2,2,Elective,ITE221,Mobile App Design
+Bachelor of IT,2,2,Elective,ITE222,Cloud Tools and Practice
+Bachelor of IT,2,2,Elective,ITE223,Data Visualisation
+Bachelor of IT,2,2,Elective,ITE224,Human Computer Interaction
+Bachelor of IT,3,1,Core,ITC301,Software Engineering
+Bachelor of IT,3,1,Core,ITC302,Advanced Database Systems
+Bachelor of IT,3,1,Core,ITC303,IT Project Management
+Bachelor of IT,3,1,Core,ITC304,Professional Practice in IT
+Bachelor of IT,3,2,Elective,ITE331,Business Intelligence
+Bachelor of IT,3,2,Elective,ITE332,Cyber Security Applications
+Bachelor of IT,3,2,Elective,ITE333,Artificial Intelligence Tools
+Bachelor of IT,3,2,Elective,ITE334,Full Stack Development
